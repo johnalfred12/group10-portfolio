@@ -101,44 +101,44 @@ a:hover {
 }
 
 .d-flex {
-  display: flex !important;
+  display: flex;
 }
 
 .justify-content-between {
-  justify-content: space-between !important;
+  justify-content: space-between;
 }
 
 .mb-0 {
-  margin-bottom: 0 !important;
+  margin-bottom: 0;
 }
 
 .mb-2 {
-  margin-bottom: 0.5rem !important;
+  margin-bottom: 0.5rem;
 }
 
 .mb-3 {
-  margin-bottom: 1rem !important;
+  margin-bottom: 1rem;
 }
 
 .mb-5 {
-  margin-bottom: 3rem !important;
+  margin-bottom: 3rem;
 }
 
 .text-primary {
-  color: rgb(189, 93, 56) !important;
+  color: rgb(189, 93, 56);
 }
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: rgb(189, 93, 56) !important;
+  background-color: rgb(189, 93, 56);
 }
 
 .rounded-circle {
-  border-radius: 50% !important;
+  border-radius: 50%;
 }
 
 .justify-content-lg-between {
-  justify-content: space-between !important;
+  justify-content: space-between;
 }
 
 p.lead {
@@ -235,6 +235,7 @@ section.resume-section {
   max-width: 75rem;
   min-height: 100vh;
 }
+
 section.resume-section .resume-section-content {
   width: 100%;
 }
